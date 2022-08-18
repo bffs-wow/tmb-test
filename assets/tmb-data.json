@@ -28,9 +28,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Paladin",
     "display_profession1": null,
@@ -271,9 +271,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": "O NOTE",
-    "raid_count": 3,
+    "raid_count": 4,
     "benched_count": 0,
-    "attendance_percentage": 0.5,
+    "attendance_percentage": 0.625,
     "display_archetype": "Tank",
     "display_class": "Paladin",
     "display_profession1": "Engineering",
@@ -647,6 +647,76 @@
           "created_at": "2022-08-17T18:09:49.000000Z",
           "updated_at": "2022-08-17T18:09:49.000000Z"
         }
+      },
+      {
+        "id": 37214,
+        "item_id": 34853,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 2,
+        "name": "Belt of the Forgotten Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 143,
+        "instance_id": 17,
+        "instance_name": "Sunwell Plateau",
+        "instance_order": 17,
+        "added_by_username": "apples",
+        "guild_tier": 2,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 245352,
+          "item_id": 34853,
+          "id": 7398782,
+          "added_by": 191889,
+          "type": "wishlist",
+          "order": 6,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2022-08-18T12:26:09.000000Z",
+          "updated_at": "2022-08-18T12:26:09.000000Z"
+        }
+      },
+      {
+        "id": 36893,
+        "item_id": 34214,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 2,
+        "name": "Muramasa",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 13,
+        "item_source_id": 146,
+        "instance_id": 17,
+        "instance_name": "Sunwell Plateau",
+        "instance_order": 17,
+        "added_by_username": "apples",
+        "guild_tier": 2,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 245352,
+          "item_id": 34214,
+          "id": 7398835,
+          "added_by": 191889,
+          "type": "wishlist",
+          "order": 7,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2022-08-18T13:17:19.000000Z",
+          "updated_at": "2022-08-18T13:17:19.000000Z"
+        }
       }
     ]
   },
@@ -679,7 +749,7 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 1,
+    "raid_count": 2,
     "benched_count": 0,
     "attendance_percentage": 1,
     "display_archetype": null,
@@ -1839,9 +1909,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Druid",
     "display_profession1": null,
@@ -1883,9 +1953,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Paladin",
     "display_profession1": null,
@@ -2170,9 +2240,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Warrior",
     "display_profession1": null,
@@ -2413,9 +2483,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Priest",
     "display_profession1": null,
@@ -3265,9 +3335,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 2,
+    "raid_count": 3,
     "benched_count": 0,
-    "attendance_percentage": 0.75,
+    "attendance_percentage": 0.833,
     "display_archetype": "Healer",
     "display_class": "Paladin",
     "display_profession1": "Jewelcrafting",
@@ -4223,7 +4293,7 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": "Test officer note.",
-    "raid_count": 2,
+    "raid_count": 3,
     "benched_count": 0,
     "attendance_percentage": 1,
     "display_archetype": "Healer",
@@ -5090,9 +5160,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Druid",
     "display_profession1": null,
@@ -5608,9 +5678,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": "DPS",
     "display_class": "Hunter",
     "display_profession1": null,
@@ -5851,9 +5921,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": null,
-    "raid_count": 0,
+    "raid_count": 1,
     "benched_count": 0,
-    "attendance_percentage": 0,
+    "attendance_percentage": 1,
     "display_archetype": null,
     "display_class": "Shaman",
     "display_profession1": null,
@@ -7231,9 +7301,9 @@
     "raid_group_name": "Best Friends",
     "raid_group_color": "3447003",
     "officer_note": "Wilkey's O Note",
-    "raid_count": 3,
+    "raid_count": 4,
     "benched_count": 0,
-    "attendance_percentage": 0.667,
+    "attendance_percentage": 0.75,
     "display_archetype": "Tank",
     "display_class": "Warrior",
     "display_profession1": "Engineering",
@@ -7264,7 +7334,7 @@
           "id": 7391312,
           "added_by": 191889,
           "type": "received",
-          "order": 0,
+          "order": 1,
           "note": "imported from sheet",
           "officer_note": null,
           "is_offspec": 0,
@@ -7272,7 +7342,7 @@
           "raid_id": null,
           "received_at": "2022-06-28 00:00:00",
           "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7297,7 +7367,7 @@
           "id": 7391313,
           "added_by": 191889,
           "type": "received",
-          "order": 0,
+          "order": 2,
           "note": "imported from sheet",
           "officer_note": null,
           "is_offspec": 0,
@@ -7305,7 +7375,7 @@
           "raid_id": null,
           "received_at": "2022-06-14 00:00:00",
           "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7330,7 +7400,7 @@
           "id": 7391314,
           "added_by": 191889,
           "type": "received",
-          "order": 0,
+          "order": 3,
           "note": "imported from sheet",
           "officer_note": null,
           "is_offspec": 0,
@@ -7338,40 +7408,7 @@
           "raid_id": null,
           "received_at": "2022-06-09 00:00:00",
           "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
-        }
-      },
-      {
-        "id": 37215,
-        "item_id": 34854,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 2,
-        "name": "Belt of the Forgotten Protector",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "added_by_username": "apples",
-        "raid_group_name": "Best Friends",
-        "raid_name": null,
-        "raid_slug": null,
-        "instance_id": 17,
-        "guild_tier": 2,
-        "pivot": {
-          "character_id": 247309,
-          "item_id": 34854,
-          "id": 7391315,
-          "added_by": 191889,
-          "type": "received",
-          "order": 0,
-          "note": "imported from sheet",
-          "officer_note": null,
-          "is_offspec": 0,
-          "raid_group_id": 9391,
-          "raid_id": null,
-          "received_at": "2022-05-31 00:00:00",
-          "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7396,7 +7433,7 @@
           "id": 7391316,
           "added_by": 191889,
           "type": "received",
-          "order": 0,
+          "order": 4,
           "note": "imported from sheet",
           "officer_note": null,
           "is_offspec": 0,
@@ -7404,7 +7441,40 @@
           "raid_id": null,
           "received_at": "2022-05-31 00:00:00",
           "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
+          "updated_at": "2022-08-18T13:21:53.000000Z"
+        }
+      },
+      {
+        "id": 37215,
+        "item_id": 34854,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 2,
+        "name": "Belt of the Forgotten Protector",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "added_by_username": "apples",
+        "raid_group_name": "Best Friends",
+        "raid_name": null,
+        "raid_slug": null,
+        "instance_id": 17,
+        "guild_tier": 2,
+        "pivot": {
+          "character_id": 247309,
+          "item_id": 34854,
+          "id": 7391315,
+          "added_by": 191889,
+          "type": "received",
+          "order": 5,
+          "note": "imported from sheet",
+          "officer_note": null,
+          "is_offspec": 0,
+          "raid_group_id": 9391,
+          "raid_id": null,
+          "received_at": "2022-05-31 00:00:00",
+          "created_at": "2022-08-16T20:20:22.000000Z",
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7429,7 +7499,7 @@
           "id": 7391317,
           "added_by": 191889,
           "type": "received",
-          "order": 0,
+          "order": 6,
           "note": "imported from sheet",
           "officer_note": null,
           "is_offspec": 0,
@@ -7437,7 +7507,7 @@
           "raid_id": null,
           "received_at": "2022-05-19 00:00:00",
           "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7462,7 +7532,7 @@
           "id": 7391318,
           "added_by": 191889,
           "type": "received",
-          "order": 0,
+          "order": 7,
           "note": "imported from sheet",
           "officer_note": null,
           "is_offspec": 0,
@@ -7470,7 +7540,7 @@
           "raid_id": null,
           "received_at": "2022-05-17 00:00:00",
           "created_at": "2022-08-16T20:20:22.000000Z",
-          "updated_at": null
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7495,7 +7565,7 @@
           "id": 7371446,
           "added_by": 193094,
           "type": "received",
-          "order": 1,
+          "order": 8,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7503,7 +7573,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7528,7 +7598,7 @@
           "id": 7371447,
           "added_by": 193094,
           "type": "received",
-          "order": 2,
+          "order": 9,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7536,7 +7606,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7561,7 +7631,7 @@
           "id": 7371448,
           "added_by": 193094,
           "type": "received",
-          "order": 3,
+          "order": 10,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7569,7 +7639,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7594,7 +7664,7 @@
           "id": 7371449,
           "added_by": 193094,
           "type": "received",
-          "order": 4,
+          "order": 11,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7602,7 +7672,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7627,7 +7697,7 @@
           "id": 7371450,
           "added_by": 193094,
           "type": "received",
-          "order": 5,
+          "order": 12,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7635,7 +7705,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7660,7 +7730,7 @@
           "id": 7371451,
           "added_by": 193094,
           "type": "received",
-          "order": 6,
+          "order": 13,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7668,7 +7738,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -7693,7 +7763,7 @@
           "id": 7371452,
           "added_by": 193094,
           "type": "received",
-          "order": 7,
+          "order": 14,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -7701,7 +7771,7 @@
           "raid_id": null,
           "received_at": "2022-08-09 16:34:23",
           "created_at": "2022-08-09T16:34:23.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       }
     ],
@@ -7988,7 +8058,7 @@
           "id": 7371441,
           "added_by": 193094,
           "type": "wishlist",
-          "order": 6,
+          "order": 5,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -7997,7 +8067,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2022-08-09T16:32:57.000000Z",
-          "updated_at": "2022-08-09T16:32:57.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -8023,7 +8093,7 @@
           "id": 7371442,
           "added_by": 193094,
           "type": "wishlist",
-          "order": 7,
+          "order": 6,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8032,7 +8102,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2022-08-09T16:32:57.000000Z",
-          "updated_at": "2022-08-09T16:32:57.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -8058,7 +8128,7 @@
           "id": 7371443,
           "added_by": 193094,
           "type": "wishlist",
-          "order": 8,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 1,
@@ -8067,7 +8137,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2022-08-09T16:32:57.000000Z",
-          "updated_at": "2022-08-09T16:34:23.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -8093,7 +8163,7 @@
           "id": 7371444,
           "added_by": 193094,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8102,7 +8172,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2022-08-09T16:32:57.000000Z",
-          "updated_at": "2022-08-09T16:32:57.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       },
       {
@@ -8128,7 +8198,7 @@
           "id": 7371445,
           "added_by": 193094,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8137,7 +8207,42 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2022-08-09T16:32:57.000000Z",
-          "updated_at": "2022-08-09T16:32:57.000000Z"
+          "updated_at": "2022-08-18T13:21:53.000000Z"
+        }
+      },
+      {
+        "id": 32671,
+        "item_id": 28659,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 2,
+        "name": "Xavian Stiletto",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 25,
+        "item_source_id": 91,
+        "instance_id": 9,
+        "instance_name": "Karazhan",
+        "instance_order": 9,
+        "added_by_username": "apples",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 247309,
+          "item_id": 28659,
+          "id": 7398836,
+          "added_by": 191889,
+          "type": "wishlist",
+          "order": 10,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2022-08-18T13:21:53.000000Z",
+          "updated_at": "2022-08-18T13:21:53.000000Z"
         }
       }
     ]
