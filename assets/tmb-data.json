@@ -358,41 +358,6 @@
         }
       },
       {
-        "id": 144839,
-        "item_id": 64315,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Conqueror",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "alzzie",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 584185,
-          "item_id": 64315,
-          "id": 21032541,
-          "added_by": 436132,
-          "type": "wishlist",
-          "order": 4,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:58:07.000000Z"
-        }
-      },
-      {
         "id": 145601,
         "item_id": 65133,
         "parent_id": null,
@@ -415,7 +380,7 @@
           "id": 21032539,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 5,
+          "order": 4,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -424,7 +389,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -450,7 +415,7 @@
           "id": 21032542,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 6,
+          "order": 5,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -459,7 +424,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:58:07.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -485,7 +450,7 @@
           "id": 21032543,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 7,
+          "order": 6,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -494,7 +459,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:58:07.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -520,7 +485,7 @@
           "id": 21032544,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 8,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -529,7 +494,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:58:07.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -555,7 +520,7 @@
           "id": 21032535,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -564,7 +529,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:58:07.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -590,7 +555,7 @@
           "id": 21032538,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -599,7 +564,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:58:07.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -625,7 +590,7 @@
           "id": 21032545,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 11,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -634,7 +599,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -660,7 +625,7 @@
           "id": 21032546,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 12,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -669,7 +634,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -695,7 +660,7 @@
           "id": 21032547,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -704,7 +669,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -730,7 +695,7 @@
           "id": 21032548,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 14,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -739,7 +704,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -765,7 +730,7 @@
           "id": 21032549,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 15,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -774,42 +739,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
-        }
-      },
-      {
-        "id": 144581,
-        "item_id": 63683,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Conqueror",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "alzzie",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 584185,
-          "item_id": 63683,
-          "id": 21032550,
-          "added_by": 436132,
-          "type": "wishlist",
-          "order": 16,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:13:52.000000Z"
         }
       },
       {
@@ -835,7 +765,7 @@
           "id": 21032551,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 17,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -844,7 +774,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -870,7 +800,7 @@
           "id": 21032552,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 18,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -879,7 +809,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -905,7 +835,7 @@
           "id": 21032553,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 19,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -914,7 +844,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -940,7 +870,7 @@
           "id": 21032557,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 20,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -949,7 +879,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T14:00:19.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -975,7 +905,7 @@
           "id": 21032554,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 21,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -984,7 +914,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T14:00:19.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1010,7 +940,7 @@
           "id": 21032555,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 22,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1019,7 +949,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T14:00:19.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1045,7 +975,7 @@
           "id": 21032556,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 23,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1054,7 +984,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T14:00:19.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1080,7 +1010,7 @@
           "id": 21032558,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 24,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1089,7 +1019,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1115,7 +1045,7 @@
           "id": 21032559,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 25,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1124,7 +1054,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1150,7 +1080,7 @@
           "id": 21032560,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 26,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1159,7 +1089,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1185,7 +1115,7 @@
           "id": 21032561,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 27,
+          "order": 25,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1194,7 +1124,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1220,7 +1150,7 @@
           "id": 21032562,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 28,
+          "order": 26,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1229,7 +1159,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1255,7 +1185,7 @@
           "id": 21032563,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 29,
+          "order": 27,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1264,7 +1194,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1290,7 +1220,7 @@
           "id": 21032564,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 30,
+          "order": 28,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1299,7 +1229,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       },
       {
@@ -1325,7 +1255,7 @@
           "id": 21032565,
           "added_by": 436132,
           "type": "wishlist",
-          "order": 31,
+          "order": 29,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1334,7 +1264,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T13:55:57.000000Z",
-          "updated_at": "2024-06-01T13:55:57.000000Z"
+          "updated_at": "2024-06-02T22:15:40.000000Z"
         }
       }
     ]
@@ -1379,14 +1309,7 @@
     "display_spec": "Ele",
     "sub_archetype": "Caster",
     "received": [],
-    "secondary_raid_groups": [
-      {
-        "id": 18939,
-        "name": "Main Raid",
-        "color": "3447003",
-        "pivot": { "character_id": 591866, "raid_group_id": 18939 }
-      }
-    ],
+    "secondary_raid_groups": [],
     "prios": [],
     "wishlist": [
       {
@@ -1600,76 +1523,6 @@
         }
       },
       {
-        "id": 144840,
-        "item_id": 64316,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Protector",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Ari",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 591866,
-          "item_id": 64316,
-          "id": 21027453,
-          "added_by": 442972,
-          "type": "wishlist",
-          "order": 7,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Normal Token (Not Essential)",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
-        }
-      },
-      {
-        "id": 144581,
-        "item_id": 63683,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Conqueror",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Ari",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 591866,
-          "item_id": 63683,
-          "id": 21027454,
-          "added_by": 442972,
-          "type": "wishlist",
-          "order": 8,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Normal Token (Not Essential)",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
-        }
-      },
-      {
         "id": 141429,
         "item_id": 60235,
         "parent_id": null,
@@ -1692,7 +1545,7 @@
           "id": 21027455,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 9,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1701,7 +1554,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1727,7 +1580,7 @@
           "id": 21027456,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 10,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1736,7 +1589,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1762,7 +1615,7 @@
           "id": 21027457,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 11,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1771,7 +1624,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1797,7 +1650,7 @@
           "id": 21027553,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 12,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1806,7 +1659,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1832,7 +1685,7 @@
           "id": 21027554,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 13,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1841,7 +1694,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1867,7 +1720,7 @@
           "id": 21027555,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 14,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1876,7 +1729,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1902,7 +1755,7 @@
           "id": 21027556,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 15,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1911,7 +1764,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1937,7 +1790,7 @@
           "id": 21027557,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 16,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1946,7 +1799,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -1972,7 +1825,7 @@
           "id": 21027458,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 17,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -1981,7 +1834,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2007,7 +1860,7 @@
           "id": 21027459,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 18,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2016,7 +1869,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2042,7 +1895,7 @@
           "id": 21027460,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 19,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2051,7 +1904,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:32:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2077,7 +1930,7 @@
           "id": 21027558,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 20,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2086,7 +1939,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2112,7 +1965,7 @@
           "id": 21027559,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 21,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2121,7 +1974,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2147,7 +2000,7 @@
           "id": 21027560,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 22,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2156,7 +2009,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2182,7 +2035,7 @@
           "id": 21027561,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 23,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2191,7 +2044,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2217,7 +2070,7 @@
           "id": 21027562,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 24,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2226,7 +2079,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2252,7 +2105,7 @@
           "id": 21027563,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 25,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2261,7 +2114,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       },
       {
@@ -2287,7 +2140,7 @@
           "id": 21027564,
           "added_by": 442972,
           "type": "wishlist",
-          "order": 26,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2296,7 +2149,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T07:46:52.000000Z",
-          "updated_at": "2024-06-01T07:46:52.000000Z"
+          "updated_at": "2024-06-02T22:15:18.000000Z"
         }
       }
     ]
@@ -2450,41 +2303,6 @@
         }
       },
       {
-        "id": 144580,
-        "item_id": 63682,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Atokata",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 593660,
-          "item_id": 63682,
-          "id": 21050390,
-          "added_by": 444415,
-          "type": "wishlist",
-          "order": 4,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Normal token.",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
-        }
-      },
-      {
         "id": 145558,
         "item_id": 65089,
         "parent_id": null,
@@ -2507,16 +2325,16 @@
           "id": 21050391,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 5,
+          "order": 4,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
           "received_at": null,
-          "note": "Normal token.",
+          "note": "Heroic token.",
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2542,7 +2360,7 @@
           "id": 21050392,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 6,
+          "order": 5,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2551,7 +2369,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2577,7 +2395,7 @@
           "id": 21050393,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 7,
+          "order": 6,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2586,7 +2404,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2612,7 +2430,7 @@
           "id": 21050394,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 8,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2621,7 +2439,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2647,7 +2465,7 @@
           "id": 21050395,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2656,7 +2474,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2682,7 +2500,7 @@
           "id": 21050396,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2691,7 +2509,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2717,7 +2535,7 @@
           "id": 21050397,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 11,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2726,7 +2544,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2752,7 +2570,7 @@
           "id": 21050398,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 12,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2761,7 +2579,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2787,7 +2605,7 @@
           "id": 21050399,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2796,42 +2614,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
-        }
-      },
-      {
-        "id": 144838,
-        "item_id": 64314,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Atokata",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 593660,
-          "item_id": 64314,
-          "id": 21050400,
-          "added_by": 444415,
-          "type": "wishlist",
-          "order": 14,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Heroic token.",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2857,7 +2640,7 @@
           "id": 21050401,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 15,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2866,7 +2649,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2892,7 +2675,7 @@
           "id": 21050402,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 16,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2901,7 +2684,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2927,7 +2710,7 @@
           "id": 21050403,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 17,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2936,7 +2719,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2962,7 +2745,7 @@
           "id": 21050404,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 18,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -2971,7 +2754,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -2997,7 +2780,7 @@
           "id": 21050405,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 19,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3006,7 +2789,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -3032,7 +2815,7 @@
           "id": 21050406,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 20,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3041,7 +2824,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -3067,7 +2850,7 @@
           "id": 21050407,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 21,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3076,7 +2859,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       },
       {
@@ -3102,7 +2885,7 @@
           "id": 21050408,
           "added_by": 444415,
           "type": "wishlist",
-          "order": 22,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3111,7 +2894,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T15:41:11.000000Z",
-          "updated_at": "2024-06-02T15:41:11.000000Z"
+          "updated_at": "2024-06-02T22:16:57.000000Z"
         }
       }
     ]
@@ -3157,39 +2940,6 @@
     "sub_archetype": "Caster",
     "received": [
       {
-        "id": 140923,
-        "item_id": 59325,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of Roaring Flames",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 3,
-        "added_by_username": "apples",
-        "raid_group_name": "Main Raid",
-        "raid_name": "CATA TIME",
-        "raid_slug": "cata-time",
-        "instance_id": 51,
-        "guild_tier": null,
-        "pivot": {
-          "character_id": 587779,
-          "item_id": 59325,
-          "id": 21019126,
-          "added_by": 435906,
-          "type": "received",
-          "order": 0,
-          "note": null,
-          "officer_note": null,
-          "is_offspec": 0,
-          "raid_group_id": 18939,
-          "raid_id": 126396,
-          "received_at": "2024-05-30 00:00:00",
-          "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
-        }
-      },
-      {
         "id": 140937,
         "item_id": 59341,
         "parent_id": null,
@@ -3211,7 +2961,7 @@
           "id": 21019109,
           "added_by": 435906,
           "type": "received",
-          "order": 0,
+          "order": 1,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -3219,7 +2969,40 @@
           "raid_id": 126396,
           "received_at": "2024-05-30 00:00:00",
           "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
+          "updated_at": "2024-06-02T22:12:25.000000Z"
+        }
+      },
+      {
+        "id": 140923,
+        "item_id": 59325,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Mantle of Roaring Flames",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 3,
+        "added_by_username": "apples",
+        "raid_group_name": "Main Raid",
+        "raid_name": "CATA TIME",
+        "raid_slug": "cata-time",
+        "instance_id": 51,
+        "guild_tier": null,
+        "pivot": {
+          "character_id": 587779,
+          "item_id": 59325,
+          "id": 21019126,
+          "added_by": 435906,
+          "type": "received",
+          "order": 2,
+          "note": null,
+          "officer_note": null,
+          "is_offspec": 0,
+          "raid_group_id": 18939,
+          "raid_id": 126396,
+          "received_at": "2024-05-30 00:00:00",
+          "created_at": "2024-05-31T18:17:18.000000Z",
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       }
     ],
@@ -3612,41 +3395,6 @@
         }
       },
       {
-        "id": 144838,
-        "item_id": 64314,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Groovecruise",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 587779,
-          "item_id": 64314,
-          "id": 20934525,
-          "added_by": 439232,
-          "type": "wishlist",
-          "order": 12,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-28T02:08:26.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
-        }
-      },
-      {
         "id": 141426,
         "item_id": 60232,
         "parent_id": null,
@@ -3669,7 +3417,7 @@
           "id": 20912641,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3678,7 +3426,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-26T22:17:41.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       },
       {
@@ -3704,7 +3452,7 @@
           "id": 20934563,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 14,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3713,7 +3461,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T02:09:38.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       },
       {
@@ -3739,7 +3487,7 @@
           "id": 20934521,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 15,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3748,7 +3496,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T02:08:26.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       },
       {
@@ -3774,7 +3522,7 @@
           "id": 20912646,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 16,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3783,7 +3531,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-26T22:17:41.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       },
       {
@@ -3809,7 +3557,7 @@
           "id": 20934560,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 17,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3818,7 +3566,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T02:09:23.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       },
       {
@@ -3844,7 +3592,7 @@
           "id": 20934523,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 18,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3853,7 +3601,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T02:08:26.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       },
       {
@@ -3879,7 +3627,7 @@
           "id": 20944758,
           "added_by": 439232,
           "type": "wishlist",
-          "order": 19,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -3888,7 +3636,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:39:50.000000Z",
-          "updated_at": "2024-05-28T15:39:50.000000Z"
+          "updated_at": "2024-06-02T22:12:25.000000Z"
         }
       }
     ]
@@ -6500,76 +6248,6 @@
         }
       },
       {
-        "id": 144580,
-        "item_id": 63682,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Boogerz",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 586549,
-          "item_id": 63682,
-          "id": 21034146,
-          "added_by": 438070,
-          "type": "wishlist",
-          "order": 7,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Normal",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-01T16:02:47.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
-        }
-      },
-      {
-        "id": 144838,
-        "item_id": 64314,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Boogerz",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 586549,
-          "item_id": 64314,
-          "id": 21034170,
-          "added_by": 438070,
-          "type": "wishlist",
-          "order": 8,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Normal",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-01T16:04:03.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
-        }
-      },
-      {
         "id": 145592,
         "item_id": 65124,
         "parent_id": null,
@@ -6592,7 +6270,7 @@
           "id": 21034272,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 9,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6601,7 +6279,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:12:55.000000Z",
-          "updated_at": "2024-06-01T16:46:58.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6627,7 +6305,7 @@
           "id": 21034274,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 10,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6636,7 +6314,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:12:55.000000Z",
-          "updated_at": "2024-06-01T16:46:58.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6662,7 +6340,7 @@
           "id": 21034268,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 11,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6671,7 +6349,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:12:55.000000Z",
-          "updated_at": "2024-06-01T16:46:58.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6697,7 +6375,7 @@
           "id": 21034269,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 12,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6706,7 +6384,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:12:55.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6732,7 +6410,7 @@
           "id": 21034349,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 13,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6741,7 +6419,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:20:06.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6767,7 +6445,7 @@
           "id": 21034346,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 14,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6776,7 +6454,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:20:06.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6802,7 +6480,7 @@
           "id": 21034347,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 15,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6811,7 +6489,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:20:06.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6837,7 +6515,7 @@
           "id": 21034270,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 16,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6846,7 +6524,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:12:55.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6872,7 +6550,7 @@
           "id": 21034271,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 17,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6881,7 +6559,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:12:55.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6907,7 +6585,7 @@
           "id": 21034348,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 18,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6916,7 +6594,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:20:06.000000Z",
-          "updated_at": "2024-06-01T16:43:23.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6942,7 +6620,7 @@
           "id": 21034350,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 19,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6951,7 +6629,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:20:06.000000Z",
-          "updated_at": "2024-06-01T16:20:06.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -6977,7 +6655,7 @@
           "id": 21034705,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 20,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -6986,7 +6664,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:51:34.000000Z",
-          "updated_at": "2024-06-01T16:51:34.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       },
       {
@@ -7012,7 +6690,7 @@
           "id": 21034706,
           "added_by": 438070,
           "type": "wishlist",
-          "order": 21,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -7021,7 +6699,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-01T16:51:34.000000Z",
-          "updated_at": "2024-06-01T16:51:34.000000Z"
+          "updated_at": "2024-06-02T22:17:11.000000Z"
         }
       }
     ]
@@ -7066,14 +6744,7 @@
     "display_spec": "Fire",
     "sub_archetype": "Caster",
     "received": [],
-    "secondary_raid_groups": [
-      {
-        "id": 18939,
-        "name": "Main Raid",
-        "color": "3447003",
-        "pivot": { "character_id": 591255, "raid_group_id": 18939 }
-      }
-    ],
+    "secondary_raid_groups": [],
     "prios": [],
     "wishlist": [
       {
@@ -7838,7 +7509,7 @@
         "pivot": {
           "character_id": 583824,
           "item_id": 65089,
-          "id": 20888768,
+          "id": 21057944,
           "added_by": 435906,
           "type": "wishlist",
           "order": 1,
@@ -7849,8 +7520,8 @@
           "note": null,
           "raid_group_id": null,
           "raid_id": null,
-          "created_at": "2024-05-24T01:44:05.000000Z",
-          "updated_at": "2024-05-24T01:44:05.000000Z"
+          "created_at": "2024-06-02T22:00:54.000000Z",
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -7994,41 +7665,6 @@
         }
       },
       {
-        "id": 144580,
-        "item_id": 63682,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "apples",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 583824,
-          "item_id": 63682,
-          "id": 20944337,
-          "added_by": 435906,
-          "type": "wishlist",
-          "order": 6,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
-        }
-      },
-      {
         "id": 147314,
         "item_id": 67426,
         "parent_id": null,
@@ -8051,7 +7687,7 @@
           "id": 20888773,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 7,
+          "order": 6,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8060,7 +7696,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T01:44:05.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8086,7 +7722,7 @@
           "id": 20944338,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 8,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8095,7 +7731,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8121,7 +7757,7 @@
           "id": 20944339,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8130,7 +7766,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8156,7 +7792,7 @@
           "id": 20944340,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8165,7 +7801,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8191,7 +7827,7 @@
           "id": 20888775,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 11,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8200,7 +7836,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T01:44:05.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8226,7 +7862,7 @@
           "id": 20944341,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 12,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8235,7 +7871,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8261,7 +7897,7 @@
           "id": 20944342,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8270,7 +7906,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8296,7 +7932,7 @@
           "id": 20944343,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 14,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8305,7 +7941,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8331,7 +7967,7 @@
           "id": 20888776,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 15,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8340,7 +7976,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T01:44:05.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8366,7 +8002,7 @@
           "id": 20944344,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 16,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8375,7 +8011,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8401,7 +8037,7 @@
           "id": 20944345,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 17,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8410,7 +8046,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8436,7 +8072,7 @@
           "id": 20888774,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 18,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8445,7 +8081,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T01:44:05.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8471,7 +8107,7 @@
           "id": 20888777,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 19,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8480,7 +8116,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T01:44:05.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8506,7 +8142,7 @@
           "id": 20944346,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 20,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8515,7 +8151,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8541,7 +8177,7 @@
           "id": 20944347,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 21,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8550,7 +8186,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8576,7 +8212,7 @@
           "id": 20944348,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 22,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8585,7 +8221,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8611,7 +8247,7 @@
           "id": 20944349,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 23,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -8620,7 +8256,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8646,7 +8282,7 @@
           "id": 20944350,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 24,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -8655,42 +8291,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
-        }
-      },
-      {
-        "id": 145558,
-        "item_id": 65089,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Shoulders of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 351,
-        "instance_id": 50,
-        "instance_name": "Throne of the Four Winds Heroic",
-        "instance_order": 103,
-        "added_by_username": "apples",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 583824,
-          "item_id": 65089,
-          "id": 20944351,
-          "added_by": 435906,
-          "type": "wishlist",
-          "order": 25,
-          "list_number": 1,
-          "is_offspec": 1,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8716,7 +8317,7 @@
           "id": 20944352,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 26,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -8725,42 +8326,42 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
-        "id": 144838,
-        "item_id": 64314,
+        "id": 145558,
+        "item_id": 65089,
         "parent_id": null,
         "parent_item_id": null,
         "expansion_id": 5,
-        "name": "Mantle of the Forlorn Vanquisher",
+        "name": "Shoulders of the Forlorn Vanquisher",
         "weight": 0.5,
         "quality": 4,
         "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
         "added_by_username": "apples",
         "guild_tier": null,
         "list_number": 1,
         "pivot": {
           "character_id": 583824,
-          "item_id": 64314,
-          "id": 20944480,
+          "item_id": 65089,
+          "id": 21057945,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 27,
+          "order": 25,
           "list_number": 1,
-          "is_offspec": 1,
+          "is_offspec": 0,
           "is_received": 0,
           "received_at": null,
           "note": null,
           "raid_group_id": null,
           "raid_id": null,
-          "created_at": "2024-05-28T15:30:17.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "created_at": "2024-06-02T22:00:54.000000Z",
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8786,7 +8387,7 @@
           "id": 20944353,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 28,
+          "order": 26,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -8795,7 +8396,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8821,7 +8422,7 @@
           "id": 20944354,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 29,
+          "order": 27,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -8830,42 +8431,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
-        }
-      },
-      {
-        "id": 144580,
-        "item_id": 63682,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "apples",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 583824,
-          "item_id": 63682,
-          "id": 20944356,
-          "added_by": 435906,
-          "type": "wishlist",
-          "order": 30,
-          "list_number": 1,
-          "is_offspec": 1,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       },
       {
@@ -8891,7 +8457,7 @@
           "id": 20944357,
           "added_by": 435906,
           "type": "wishlist",
-          "order": 31,
+          "order": 28,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -8900,7 +8466,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T15:27:23.000000Z",
-          "updated_at": "2024-06-02T18:42:22.000000Z"
+          "updated_at": "2024-06-02T22:00:54.000000Z"
         }
       }
     ]
@@ -8967,7 +8533,7 @@
           "id": 21019123,
           "added_by": 435906,
           "type": "received",
-          "order": 0,
+          "order": 1,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -8975,40 +8541,7 @@
           "raid_id": 126396,
           "received_at": "2024-05-30 00:00:00",
           "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
-        }
-      },
-      {
-        "id": 140819,
-        "item_id": 59221,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Massacre Treads",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 8,
-        "added_by_username": "apples",
-        "raid_group_name": "Main Raid",
-        "raid_name": "CATA TIME",
-        "raid_slug": "cata-time",
-        "instance_id": 51,
-        "guild_tier": null,
-        "pivot": {
-          "character_id": 584538,
-          "item_id": 59221,
-          "id": 21019117,
-          "added_by": 435906,
-          "type": "received",
-          "order": 0,
-          "note": null,
-          "officer_note": null,
-          "is_offspec": 0,
-          "raid_group_id": 18939,
-          "raid_id": 126396,
-          "received_at": "2024-05-30 00:00:00",
-          "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
+          "updated_at": "2024-06-02T22:14:02.000000Z"
         }
       },
       {
@@ -9033,7 +8566,7 @@
           "id": 21019090,
           "added_by": 435906,
           "type": "received",
-          "order": 0,
+          "order": 2,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -9041,7 +8574,40 @@
           "raid_id": 126396,
           "received_at": "2024-05-30 00:00:00",
           "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
+          "updated_at": "2024-06-02T22:14:02.000000Z"
+        }
+      },
+      {
+        "id": 140819,
+        "item_id": 59221,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Massacre Treads",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 8,
+        "added_by_username": "apples",
+        "raid_group_name": "Main Raid",
+        "raid_name": "CATA TIME",
+        "raid_slug": "cata-time",
+        "instance_id": 51,
+        "guild_tier": null,
+        "pivot": {
+          "character_id": 584538,
+          "item_id": 59221,
+          "id": 21019117,
+          "added_by": 435906,
+          "type": "received",
+          "order": 3,
+          "note": null,
+          "officer_note": null,
+          "is_offspec": 0,
+          "raid_group_id": 18939,
+          "raid_id": 126396,
+          "received_at": "2024-05-30 00:00:00",
+          "created_at": "2024-05-31T18:17:18.000000Z",
+          "updated_at": "2024-06-02T22:14:02.000000Z"
         }
       },
       {
@@ -9066,7 +8632,7 @@
           "id": 21019095,
           "added_by": 435906,
           "type": "received",
-          "order": 0,
+          "order": 4,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -9074,7 +8640,7 @@
           "raid_id": 126396,
           "received_at": "2024-05-30 00:00:00",
           "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
+          "updated_at": "2024-06-02T22:14:02.000000Z"
         }
       }
     ],
@@ -9327,41 +8893,6 @@
         }
       },
       {
-        "id": 144581,
-        "item_id": 63683,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Conqueror",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Topherlot (Garglawn)",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 584538,
-          "item_id": 63683,
-          "id": 20977043,
-          "added_by": 436001,
-          "type": "wishlist",
-          "order": 8,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Norm token",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-30T01:43:53.000000Z"
-        }
-      },
-      {
         "id": 145476,
         "item_id": 65007,
         "parent_id": null,
@@ -9384,7 +8915,7 @@
           "id": 20977050,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9393,7 +8924,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-06-01T14:55:22.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9419,7 +8950,7 @@
           "id": 20977046,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9428,7 +8959,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9454,7 +8985,7 @@
           "id": 20977047,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 11,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9463,7 +8994,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-06-01T14:55:22.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9489,7 +9020,7 @@
           "id": 20977048,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 12,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9498,7 +9029,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-06-01T14:55:22.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9524,7 +9055,7 @@
           "id": 20977049,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9533,7 +9064,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-06-01T14:55:22.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9559,7 +9090,7 @@
           "id": 20977051,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 14,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9568,7 +9099,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-30T01:43:53.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9594,7 +9125,7 @@
           "id": 20977052,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 15,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9603,7 +9134,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-30T01:43:53.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9629,7 +9160,7 @@
           "id": 20977053,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 16,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9638,7 +9169,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-30T01:43:53.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9664,7 +9195,7 @@
           "id": 20977045,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 17,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9673,7 +9204,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-30T01:43:53.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9699,7 +9230,7 @@
           "id": 20977054,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 18,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9708,7 +9239,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9734,7 +9265,7 @@
           "id": 20977055,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 19,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9743,7 +9274,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9769,7 +9300,7 @@
           "id": 20977056,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 20,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9778,7 +9309,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9804,7 +9335,7 @@
           "id": 20977057,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 21,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9813,42 +9344,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
-        }
-      },
-      {
-        "id": 144839,
-        "item_id": 64315,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Conqueror",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Topherlot (Garglawn)",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 584538,
-          "item_id": 64315,
-          "id": 20977058,
-          "added_by": 436001,
-          "type": "wishlist",
-          "order": 22,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": "Heroic token",
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9874,7 +9370,7 @@
           "id": 20977059,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 23,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9883,7 +9379,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-30T01:43:53.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9909,7 +9405,7 @@
           "id": 20977060,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 24,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9918,7 +9414,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9944,7 +9440,7 @@
           "id": 20977061,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 25,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9953,7 +9449,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -9979,7 +9475,7 @@
           "id": 20977062,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 26,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -9988,7 +9484,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -10014,7 +9510,7 @@
           "id": 20977063,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 27,
+          "order": 25,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10023,7 +9519,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-29T23:02:20.000000Z",
-          "updated_at": "2024-05-29T23:02:20.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       },
       {
@@ -10049,7 +9545,7 @@
           "id": 21006061,
           "added_by": 436001,
           "type": "wishlist",
-          "order": 28,
+          "order": 26,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10058,7 +9554,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-30T23:50:42.000000Z",
-          "updated_at": "2024-05-30T23:50:42.000000Z"
+          "updated_at": "2024-06-02T22:15:30.000000Z"
         }
       }
     ]
@@ -10079,7 +9575,7 @@
     "profession_2": null,
     "rank": null,
     "rank_goal": null,
-    "raid_group_id": null,
+    "raid_group_id": 18939,
     "is_alt": 0,
     "public_note": null,
     "inactive_at": null,
@@ -10089,8 +9585,8 @@
     "discord_id": "908851332314726420",
     "is_wishlist_unlocked": 0,
     "is_received_unlocked": 0,
-    "raid_group_name": null,
-    "raid_group_color": null,
+    "raid_group_name": "Main Raid",
+    "raid_group_color": "3447003",
     "officer_note": null,
     "raid_count": 0,
     "benched_count": 0,
@@ -10325,16 +9821,710 @@
     "display_spec": "Demonology",
     "sub_archetype": "Caster",
     "received": [],
-    "secondary_raid_groups": [
-      {
-        "id": 18939,
-        "name": "Main Raid",
-        "color": "3447003",
-        "pivot": { "character_id": 594102, "raid_group_id": 18939 }
-      }
-    ],
+    "secondary_raid_groups": [],
     "prios": [],
-    "wishlist": []
+    "wishlist": [
+      {
+        "id": 145510,
+        "item_id": 65041,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Incineratus",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 21,
+        "item_source_id": 360,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65041,
+          "id": 21058304,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 1,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145522,
+        "item_id": 65053,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Bell of Enraging Resonance",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 12,
+        "item_source_id": 363,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65053,
+          "id": 21058305,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 2,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 147311,
+        "item_id": 67423,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Chest of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 67423,
+          "id": 21058306,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 3,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145470,
+        "item_id": 65001,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Crown of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65001,
+          "id": 21058307,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 4,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145557,
+        "item_id": 65088,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Shoulders of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65088,
+          "id": 21058308,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 5,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 147316,
+        "item_id": 67428,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Leggings of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 362,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 67428,
+          "id": 21058309,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 6,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145601,
+        "item_id": 65133,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Book of Binding Will",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 23,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65133,
+          "id": 21058310,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 7,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145591,
+        "item_id": 65123,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Signet of the Fifth Circle",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 11,
+        "item_source_id": 375,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65123,
+          "id": 21058311,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 8,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145485,
+        "item_id": 65016,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Theresa's Booklight",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 26,
+        "item_source_id": 359,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65016,
+          "id": 21058312,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 9,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145601,
+        "item_id": 65133,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Book of Binding Will",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 23,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65133,
+          "id": 21058313,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 10,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145835,
+        "item_id": 65373,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Planetary Band",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 11,
+        "item_source_id": 350,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65373,
+          "id": 21058314,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 11,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145580,
+        "item_id": 65112,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Valiona's Medallion",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 2,
+        "item_source_id": 373,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65112,
+          "id": 21058315,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 12,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145606,
+        "item_id": 65138,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Bracers of the Bronze Flight",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 9,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65138,
+          "id": 21058316,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 13,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145538,
+        "item_id": 65069,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Einhorn's Galoshes",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 8,
+        "item_source_id": 364,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65069,
+          "id": 21058317,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 14,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145503,
+        "item_id": 65034,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Belt of Arcane Storms",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 6,
+        "item_source_id": 362,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65034,
+          "id": 21058318,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 15,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145594,
+        "item_id": 65126,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Hands of the Twilight Council",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 10,
+        "item_source_id": 375,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65126,
+          "id": 21058319,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 16,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 141426,
+        "item_id": 60232,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Shroud of Endless Grief",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 16,
+        "item_source_id": 376,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 60232,
+          "id": 21058320,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 17,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 145838,
+        "item_id": 65376,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Soul Breath Belt",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 6,
+        "item_source_id": 350,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 65376,
+          "id": 21058321,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 18,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 148007,
+        "item_id": 69882,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Planetary Amulet",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 2,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 69882,
+          "id": 21058322,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 19,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      },
+      {
+        "id": 147458,
+        "item_id": 68132,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Stormwake, the Tempest's Reach",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 21,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "Hyser",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 594102,
+          "item_id": 68132,
+          "id": 21058323,
+          "added_by": 444719,
+          "type": "wishlist",
+          "order": 20,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:12:06.000000Z",
+          "updated_at": "2024-06-02T22:12:06.000000Z"
+        }
+      }
+    ]
   },
   {
     "id": 583923,
@@ -10414,6 +10604,41 @@
     "prios": [],
     "wishlist": [
       {
+        "id": 141427,
+        "item_id": 60233,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Shard of Woe",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 12,
+        "item_source_id": 376,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 60233,
+          "id": 20888240,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 1,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-05-23T23:14:27.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
         "id": 145579,
         "item_id": 65111,
         "parent_id": null,
@@ -10436,7 +10661,7 @@
           "id": 20927689,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 1,
+          "order": 2,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10445,42 +10670,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-27T20:07:26.000000Z",
-          "updated_at": "2024-05-27T20:07:26.000000Z"
-        }
-      },
-      {
-        "id": 145592,
-        "item_id": 65124,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Fall of Mortality",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 12,
-        "item_source_id": 375,
-        "instance_id": 54,
-        "instance_name": "The Bastion of Twilight Heroic",
-        "instance_order": 107,
-        "added_by_username": "IEatCrayons",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 583923,
-          "item_id": 65124,
-          "id": 21054633,
-          "added_by": 435923,
-          "type": "wishlist",
-          "order": 2,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10519,16 +10709,16 @@
         }
       },
       {
-        "id": 141427,
-        "item_id": 60233,
+        "id": 145592,
+        "item_id": 65124,
         "parent_id": null,
         "parent_item_id": null,
         "expansion_id": 5,
-        "name": "Shard of Woe",
+        "name": "Fall of Mortality",
         "weight": 0.5,
         "quality": 4,
         "inventory_type": 12,
-        "item_source_id": 376,
+        "item_source_id": 375,
         "instance_id": 54,
         "instance_name": "The Bastion of Twilight Heroic",
         "instance_order": 107,
@@ -10537,8 +10727,8 @@
         "list_number": 1,
         "pivot": {
           "character_id": 583923,
-          "item_id": 60233,
-          "id": 20888240,
+          "item_id": 65124,
+          "id": 21054633,
           "added_by": 435923,
           "type": "wishlist",
           "order": 4,
@@ -10549,8 +10739,8 @@
           "note": null,
           "raid_group_id": null,
           "raid_id": null,
-          "created_at": "2024-05-23T23:14:27.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "created_at": "2024-06-02T19:30:59.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10589,41 +10779,6 @@
         }
       },
       {
-        "id": 147311,
-        "item_id": 67423,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Chest of the Forlorn Conqueror",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 372,
-        "instance_id": 54,
-        "instance_name": "The Bastion of Twilight Heroic",
-        "instance_order": 107,
-        "added_by_username": "IEatCrayons",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 583923,
-          "item_id": 67423,
-          "id": 21054635,
-          "added_by": 435923,
-          "type": "wishlist",
-          "order": 6,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
-        }
-      },
-      {
         "id": 145557,
         "item_id": 65088,
         "parent_id": null,
@@ -10646,6 +10801,41 @@
           "id": 21054636,
           "added_by": 435923,
           "type": "wishlist",
+          "order": 6,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T19:30:59.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 147311,
+        "item_id": 67423,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Chest of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 67423,
+          "id": 21054635,
+          "added_by": 435923,
+          "type": "wishlist",
           "order": 7,
           "list_number": 1,
           "is_offspec": 0,
@@ -10655,30 +10845,30 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
-        "id": 144839,
-        "item_id": 64315,
+        "id": 147317,
+        "item_id": 67429,
         "parent_id": null,
         "parent_item_id": null,
         "expansion_id": 5,
-        "name": "Mantle of the Forlorn Conqueror",
+        "name": "Gauntlets of the Forlorn Conqueror",
         "weight": 0.5,
         "quality": 4,
         "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
+        "item_source_id": 360,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
         "added_by_username": "IEatCrayons",
         "guild_tier": null,
         "list_number": 1,
         "pivot": {
           "character_id": 583923,
-          "item_id": 64315,
-          "id": 21054637,
+          "item_id": 67429,
+          "id": 21058248,
           "added_by": 435923,
           "type": "wishlist",
           "order": 8,
@@ -10689,8 +10879,43 @@
           "note": null,
           "raid_group_id": null,
           "raid_id": null,
-          "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 147316,
+        "item_id": 67428,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Leggings of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 362,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 67428,
+          "id": 21058249,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 9,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10716,7 +10941,7 @@
           "id": 21054638,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 9,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10725,7 +10950,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10751,7 +10976,7 @@
           "id": 21054639,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 10,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10760,7 +10985,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10786,7 +11011,7 @@
           "id": 21054640,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 11,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10795,7 +11020,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10821,7 +11046,7 @@
           "id": 21054641,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 12,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10830,7 +11055,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10856,7 +11081,7 @@
           "id": 21054642,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 13,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10865,7 +11090,42 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145545,
+        "item_id": 65076,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Security Measure Alpha",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 11,
+        "item_source_id": 361,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65076,
+          "id": 21058250,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 15,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10891,7 +11151,7 @@
           "id": 21054643,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 14,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10900,7 +11160,217 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 148006,
+        "item_id": 69881,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Planetary Drape",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 16,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 69881,
+          "id": 21058251,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 17,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": "Planetary Drape of the Undertow (Spirit + Haste)",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145584,
+        "item_id": 65116,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Treads of Liquid Ice",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 8,
+        "item_source_id": 374,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65116,
+          "id": 21058252,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 18,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145602,
+        "item_id": 65134,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Wyrmbreaker's Amulet",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 2,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65134,
+          "id": 21058253,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 19,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 141426,
+        "item_id": 60232,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Shroud of Endless Grief",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 16,
+        "item_source_id": 376,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 60232,
+          "id": 21058254,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 20,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": "BIS but aggressive stats only after spirit is fine",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145845,
+        "item_id": 65383,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Soul Breath Leggings",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 7,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65383,
+          "id": 21058255,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 21,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": "Soul Breath Leggings of the Undertow  (Spirit + Haste) < T11",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 148007,
+        "item_id": 69882,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Planetary Amulet",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 2,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 69882,
+          "id": 21058256,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 22,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": "Planetary Amulet of the Undertow  (Spirit + Haste)",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10926,7 +11396,7 @@
           "id": 21054644,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 15,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -10935,7 +11405,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10961,16 +11431,16 @@
           "id": 21054645,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 16,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
           "received_at": null,
-          "note": "WEP5------------------------------01",
+          "note": "WEP4------------------------------01",
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       },
       {
@@ -10996,16 +11466,471 @@
           "id": 21054646,
           "added_by": 435923,
           "type": "wishlist",
-          "order": 17,
+          "order": 25,
           "list_number": 1,
           "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": "WEP5------------------------------03",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T19:30:59.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145548,
+        "item_id": 65079,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "X-Tron Duct Tape",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 6,
+        "item_source_id": 361,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65079,
+          "id": 21058257,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 26,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145489,
+        "item_id": 65020,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Crown of Burning Waters",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 1,
+        "item_source_id": 360,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65020,
+          "id": 21058258,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 27,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145512,
+        "item_id": 65043,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Mantle of Nefarius",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 3,
+        "item_source_id": 365,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65043,
+          "id": 21058259,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 28,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145534,
+        "item_id": 65065,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Brackish Gloves",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 10,
+        "item_source_id": 364,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65065,
+          "id": 21058260,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 29,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 141432,
+        "item_id": 60238,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Bracers of the Dark Mother",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 9,
+        "item_source_id": 376,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 60238,
+          "id": 21058261,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 30,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": "would be way better for disc so good flex",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145591,
+        "item_id": 65123,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Signet of the Fifth Circle",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 11,
+        "item_source_id": 375,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65123,
+          "id": 21058262,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 31,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": "aggressive stats only after spirit is fine",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145501,
+        "item_id": 65032,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Legwraps of the Greatest Son",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 7,
+        "item_source_id": 362,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65032,
+          "id": 21058263,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 32,
+          "list_number": 1,
+          "is_offspec": 0,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145470,
+        "item_id": 65001,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Crown of the Forlorn Conqueror",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 0,
+        "item_source_id": 351,
+        "instance_id": 50,
+        "instance_name": "Throne of the Four Winds Heroic",
+        "instance_order": 103,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65001,
+          "id": 21058264,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 33,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145560,
+        "item_id": 65091,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Blade of the Witching Hour",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 21,
+        "item_source_id": 373,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65091,
+          "id": 21058265,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 34,
+          "list_number": 1,
+          "is_offspec": 1,
           "is_received": 0,
           "received_at": null,
           "note": "WEP6------------------------------03",
           "raid_group_id": null,
           "raid_id": null,
-          "created_at": "2024-06-02T19:30:59.000000Z",
-          "updated_at": "2024-06-02T19:30:59.000000Z"
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145503,
+        "item_id": 65034,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Belt of Arcane Storms",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 6,
+        "item_source_id": 362,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65034,
+          "id": 21058266,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 35,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": "very high haste piece only take after DPS if i don't need as much spirit anymore",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145594,
+        "item_id": 65126,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Hands of the Twilight Council",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 10,
+        "item_source_id": 375,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65126,
+          "id": 21058267,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 36,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": "aggressive stats only after spirit is fine",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145606,
+        "item_id": 65138,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Bracers of the Bronze Flight",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 9,
+        "item_source_id": 372,
+        "instance_id": 54,
+        "instance_name": "The Bastion of Twilight Heroic",
+        "instance_order": 107,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65138,
+          "id": 21058268,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 37,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": "aggressive stats only after spirit is fine",
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
+        }
+      },
+      {
+        "id": 145523,
+        "item_id": 65054,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Mantle of Roaring Flames",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 3,
+        "item_source_id": 363,
+        "instance_id": 52,
+        "instance_name": "Blackwing Descent Heroic",
+        "instance_order": 105,
+        "added_by_username": "IEatCrayons",
+        "guild_tier": null,
+        "list_number": 1,
+        "pivot": {
+          "character_id": 583923,
+          "item_id": 65054,
+          "id": 21058269,
+          "added_by": 435923,
+          "type": "wishlist",
+          "order": 38,
+          "list_number": 1,
+          "is_offspec": 1,
+          "is_received": 0,
+          "received_at": null,
+          "note": null,
+          "raid_group_id": null,
+          "raid_id": null,
+          "created_at": "2024-06-02T22:10:19.000000Z",
+          "updated_at": "2024-06-02T22:10:19.000000Z"
         }
       }
     ]
@@ -13347,6 +14272,39 @@
     "sub_archetype": "Physical",
     "received": [
       {
+        "id": 141107,
+        "item_id": 59518,
+        "parent_id": null,
+        "parent_item_id": null,
+        "expansion_id": 5,
+        "name": "Ring of Rivalry",
+        "weight": 0.5,
+        "quality": 4,
+        "inventory_type": 11,
+        "added_by_username": "apples",
+        "raid_group_name": "Main Raid",
+        "raid_name": "CATA TIME",
+        "raid_slug": "cata-time",
+        "instance_id": 53,
+        "guild_tier": null,
+        "pivot": {
+          "character_id": 590202,
+          "item_id": 59518,
+          "id": 21019089,
+          "added_by": 435906,
+          "type": "received",
+          "order": 1,
+          "note": null,
+          "officer_note": null,
+          "is_offspec": 0,
+          "raid_group_id": 18939,
+          "raid_id": 126396,
+          "received_at": "2024-05-30 00:00:00",
+          "created_at": "2024-05-31T18:17:18.000000Z",
+          "updated_at": "2024-06-02T22:16:05.000000Z"
+        }
+      },
+      {
         "id": 144840,
         "item_id": 64316,
         "parent_id": null,
@@ -13368,7 +14326,7 @@
           "id": 21019105,
           "added_by": 435906,
           "type": "received",
-          "order": 0,
+          "order": 2,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -13376,7 +14334,7 @@
           "raid_id": 126396,
           "received_at": "2024-05-30 00:00:00",
           "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -13401,7 +14359,7 @@
           "id": 21019098,
           "added_by": 435906,
           "type": "received",
-          "order": 0,
+          "order": 3,
           "note": null,
           "officer_note": null,
           "is_offspec": 0,
@@ -13409,40 +14367,7 @@
           "raid_id": 126396,
           "received_at": "2024-05-30 00:00:00",
           "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
-        }
-      },
-      {
-        "id": 141107,
-        "item_id": 59518,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Ring of Rivalry",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 11,
-        "added_by_username": "apples",
-        "raid_group_name": "Main Raid",
-        "raid_name": "CATA TIME",
-        "raid_slug": "cata-time",
-        "instance_id": 53,
-        "guild_tier": null,
-        "pivot": {
-          "character_id": 590202,
-          "item_id": 59518,
-          "id": 21019089,
-          "added_by": 435906,
-          "type": "received",
-          "order": 0,
-          "note": null,
-          "officer_note": null,
-          "is_offspec": 0,
-          "raid_group_id": 18939,
-          "raid_id": 126396,
-          "received_at": "2024-05-30 00:00:00",
-          "created_at": "2024-05-31T18:17:18.000000Z",
-          "updated_at": null
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       }
     ],
@@ -13975,41 +14900,6 @@
         }
       },
       {
-        "id": 144582,
-        "item_id": 63684,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Protector",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "mmyso",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 590202,
-          "item_id": 63684,
-          "id": 21049317,
-          "added_by": 441496,
-          "type": "wishlist",
-          "order": 16,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
-        }
-      },
-      {
         "id": 145613,
         "item_id": 65145,
         "parent_id": null,
@@ -14032,7 +14922,7 @@
           "id": 21049318,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 17,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14041,7 +14931,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14067,7 +14957,7 @@
           "id": 21049319,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 18,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14076,7 +14966,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14102,7 +14992,7 @@
           "id": 21049320,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 19,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14111,7 +15001,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14137,7 +15027,7 @@
           "id": 21049321,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 20,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14146,7 +15036,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14172,7 +15062,7 @@
           "id": 21049322,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 21,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14181,7 +15071,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14207,7 +15097,7 @@
           "id": 21049323,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 22,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14216,7 +15106,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14242,7 +15132,7 @@
           "id": 21049324,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 23,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14251,7 +15141,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14277,7 +15167,7 @@
           "id": 21049325,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 24,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14286,7 +15176,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14312,7 +15202,7 @@
           "id": 21049326,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 25,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -14321,7 +15211,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14347,7 +15237,7 @@
           "id": 21049327,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 26,
+          "order": 25,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -14356,7 +15246,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       },
       {
@@ -14382,7 +15272,7 @@
           "id": 21049328,
           "added_by": 441496,
           "type": "wishlist",
-          "order": 27,
+          "order": 26,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -14391,7 +15281,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T14:32:42.000000Z",
-          "updated_at": "2024-06-02T14:32:42.000000Z"
+          "updated_at": "2024-06-02T22:16:05.000000Z"
         }
       }
     ]
@@ -17149,76 +18039,6 @@
         }
       },
       {
-        "id": 144582,
-        "item_id": 63684,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Protector",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Paradot",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 593256,
-          "item_id": 63684,
-          "id": 21040054,
-          "added_by": 444040,
-          "type": "wishlist",
-          "order": 14,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T21:05:48.000000Z"
-        }
-      },
-      {
-        "id": 144840,
-        "item_id": 64316,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Protector",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Paradot",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 593256,
-          "item_id": 64316,
-          "id": 21040056,
-          "added_by": 444040,
-          "type": "wishlist",
-          "order": 15,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T21:05:48.000000Z"
-        }
-      },
-      {
         "id": 145564,
         "item_id": 65095,
         "parent_id": null,
@@ -17241,7 +18061,7 @@
           "id": 21040052,
           "added_by": 444040,
           "type": "wishlist",
-          "order": 16,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -17250,7 +18070,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T18:36:12.000000Z"
+          "updated_at": "2024-06-02T22:15:59.000000Z"
         }
       },
       {
@@ -17276,7 +18096,7 @@
           "id": 21040042,
           "added_by": 444040,
           "type": "wishlist",
-          "order": 17,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -17285,7 +18105,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T21:05:48.000000Z"
+          "updated_at": "2024-06-02T22:15:59.000000Z"
         }
       },
       {
@@ -17311,7 +18131,7 @@
           "id": 21040044,
           "added_by": 444040,
           "type": "wishlist",
-          "order": 18,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -17320,7 +18140,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T21:05:48.000000Z"
+          "updated_at": "2024-06-02T22:15:59.000000Z"
         }
       },
       {
@@ -17346,7 +18166,7 @@
           "id": 21040055,
           "added_by": 444040,
           "type": "wishlist",
-          "order": 19,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -17355,7 +18175,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T21:05:48.000000Z"
+          "updated_at": "2024-06-02T22:15:59.000000Z"
         }
       },
       {
@@ -17381,7 +18201,7 @@
           "id": 21040057,
           "added_by": 444040,
           "type": "wishlist",
-          "order": 20,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -17390,7 +18210,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T00:22:46.000000Z",
-          "updated_at": "2024-06-02T18:36:12.000000Z"
+          "updated_at": "2024-06-02T22:15:59.000000Z"
         }
       }
     ]
@@ -21511,14 +22331,7 @@
     "display_spec": "Restoration",
     "sub_archetype": null,
     "received": [],
-    "secondary_raid_groups": [
-      {
-        "id": 18939,
-        "name": "Main Raid",
-        "color": "3447003",
-        "pivot": { "character_id": 591849, "raid_group_id": 18939 }
-      }
-    ],
+    "secondary_raid_groups": [],
     "prios": [],
     "wishlist": [
       {
@@ -23685,41 +24498,6 @@
         }
       },
       {
-        "id": 144580,
-        "item_id": 63682,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "DankVibes",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 586682,
-          "item_id": 63682,
-          "id": 20942729,
-          "added_by": 438194,
-          "type": "wishlist",
-          "order": 2,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-28T14:18:13.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
-        }
-      },
-      {
         "id": 145471,
         "item_id": 65002,
         "parent_id": null,
@@ -23742,7 +24520,7 @@
           "id": 20891946,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 3,
+          "order": 2,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23751,7 +24529,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23777,7 +24555,7 @@
           "id": 20891941,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 4,
+          "order": 3,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23786,7 +24564,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23812,7 +24590,7 @@
           "id": 20891948,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 5,
+          "order": 4,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23821,7 +24599,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23847,7 +24625,7 @@
           "id": 20891947,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 6,
+          "order": 5,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23856,7 +24634,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23882,7 +24660,7 @@
           "id": 20891945,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 7,
+          "order": 6,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23891,7 +24669,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23917,7 +24695,7 @@
           "id": 20891942,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 8,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23926,7 +24704,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23952,7 +24730,7 @@
           "id": 20891943,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23961,7 +24739,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -23987,7 +24765,7 @@
           "id": 20891936,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -23996,7 +24774,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24022,7 +24800,7 @@
           "id": 20891952,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 11,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24031,7 +24809,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24057,7 +24835,7 @@
           "id": 20891944,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 12,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24066,7 +24844,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24092,7 +24870,7 @@
           "id": 20891955,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24101,7 +24879,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24127,7 +24905,7 @@
           "id": 20891940,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 14,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24136,7 +24914,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24162,7 +24940,7 @@
           "id": 20891939,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 15,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24171,7 +24949,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24197,7 +24975,7 @@
           "id": 20891956,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 16,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24206,7 +24984,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24232,7 +25010,7 @@
           "id": 20891938,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 17,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24241,42 +25019,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
-        }
-      },
-      {
-        "id": 144838,
-        "item_id": 64314,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "DankVibes",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 586682,
-          "item_id": 64314,
-          "id": 20942730,
-          "added_by": 438194,
-          "type": "wishlist",
-          "order": 18,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-05-28T14:18:13.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24302,7 +25045,7 @@
           "id": 20891953,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 19,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24311,7 +25054,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:17:45.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24337,7 +25080,7 @@
           "id": 20891954,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 20,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24346,7 +25089,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24372,7 +25115,7 @@
           "id": 20891951,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 21,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -24381,7 +25124,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24407,7 +25150,7 @@
           "id": 20942731,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 22,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -24416,7 +25159,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-28T14:18:13.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24442,7 +25185,7 @@
           "id": 21054490,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 23,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -24451,7 +25194,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T19:17:45.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       },
       {
@@ -24477,7 +25220,7 @@
           "id": 20891950,
           "added_by": 438194,
           "type": "wishlist",
-          "order": 24,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 1,
           "is_received": 0,
@@ -24486,7 +25229,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-24T14:46:21.000000Z",
-          "updated_at": "2024-06-02T19:51:40.000000Z"
+          "updated_at": "2024-06-02T22:16:22.000000Z"
         }
       }
     ]
@@ -25662,41 +26405,6 @@
         }
       },
       {
-        "id": 144838,
-        "item_id": 64314,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Mantle of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Ultrez",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 586676,
-          "item_id": 64314,
-          "id": 21049830,
-          "added_by": 436296,
-          "type": "wishlist",
-          "order": 7,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T15:11:59.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
-        }
-      },
-      {
         "id": 141431,
         "item_id": 60237,
         "parent_id": null,
@@ -25719,7 +26427,7 @@
           "id": 21015124,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 8,
+          "order": 7,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25728,7 +26436,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25754,7 +26462,7 @@
           "id": 21015125,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 9,
+          "order": 8,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25763,7 +26471,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25789,7 +26497,7 @@
           "id": 21015126,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 10,
+          "order": 9,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25798,7 +26506,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25824,7 +26532,7 @@
           "id": 21015127,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 11,
+          "order": 10,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25833,7 +26541,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25859,7 +26567,7 @@
           "id": 21015128,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 12,
+          "order": 11,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25868,7 +26576,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25894,7 +26602,7 @@
           "id": 21015283,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 13,
+          "order": 12,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25903,7 +26611,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:24:46.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25929,7 +26637,7 @@
           "id": 21015131,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 14,
+          "order": 13,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25938,7 +26646,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25964,7 +26672,7 @@
           "id": 21015132,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 15,
+          "order": 14,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -25973,7 +26681,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -25999,7 +26707,7 @@
           "id": 21015279,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 16,
+          "order": 15,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26008,7 +26716,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:24:46.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26034,7 +26742,7 @@
           "id": 21015133,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 17,
+          "order": 16,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26043,7 +26751,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26069,7 +26777,7 @@
           "id": 21015129,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 18,
+          "order": 17,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26078,7 +26786,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26104,7 +26812,7 @@
           "id": 21015130,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 19,
+          "order": 18,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26113,7 +26821,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:11:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26139,7 +26847,7 @@
           "id": 21048572,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 20,
+          "order": 19,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26148,7 +26856,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-06-02T13:56:14.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26174,7 +26882,7 @@
           "id": 21015282,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 21,
+          "order": 20,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26183,7 +26891,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:24:46.000000Z",
-          "updated_at": "2024-06-02T15:01:18.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26209,7 +26917,7 @@
           "id": 21015280,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 22,
+          "order": 21,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26218,42 +26926,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:24:46.000000Z",
-          "updated_at": "2024-06-02T15:11:59.000000Z"
-        }
-      },
-      {
-        "id": 144580,
-        "item_id": 63682,
-        "parent_id": null,
-        "parent_item_id": null,
-        "expansion_id": 5,
-        "name": "Helm of the Forlorn Vanquisher",
-        "weight": 0.5,
-        "quality": 4,
-        "inventory_type": 0,
-        "item_source_id": 349,
-        "instance_id": 49,
-        "instance_name": "Throne of the Four Winds Normal",
-        "instance_order": 102,
-        "added_by_username": "Ultrez",
-        "guild_tier": null,
-        "list_number": 1,
-        "pivot": {
-          "character_id": 586676,
-          "item_id": 63682,
-          "id": 21049974,
-          "added_by": 436296,
-          "type": "wishlist",
-          "order": 23,
-          "list_number": 1,
-          "is_offspec": 0,
-          "is_received": 0,
-          "received_at": null,
-          "note": null,
-          "raid_group_id": null,
-          "raid_id": null,
-          "created_at": "2024-06-02T15:17:25.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:12:34.000000Z"
         }
       },
       {
@@ -26279,7 +26952,7 @@
           "id": 21015307,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 24,
+          "order": 22,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26288,7 +26961,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26314,7 +26987,7 @@
           "id": 21015285,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 25,
+          "order": 23,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26323,7 +26996,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:24:46.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26349,7 +27022,7 @@
           "id": 21015308,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 26,
+          "order": 24,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26358,7 +27031,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26384,7 +27057,7 @@
           "id": 21015309,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 27,
+          "order": 25,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26393,7 +27066,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26419,7 +27092,7 @@
           "id": 21015310,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 28,
+          "order": 26,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26428,7 +27101,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26454,7 +27127,7 @@
           "id": 21015311,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 29,
+          "order": 27,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26463,7 +27136,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26489,7 +27162,7 @@
           "id": 21015312,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 30,
+          "order": 28,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26498,7 +27171,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26524,7 +27197,7 @@
           "id": 21015313,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 31,
+          "order": 29,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26533,7 +27206,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26559,7 +27232,7 @@
           "id": 21015314,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 32,
+          "order": 30,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26568,7 +27241,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       },
       {
@@ -26594,7 +27267,7 @@
           "id": 21015315,
           "added_by": 436296,
           "type": "wishlist",
-          "order": 33,
+          "order": 31,
           "list_number": 1,
           "is_offspec": 0,
           "is_received": 0,
@@ -26603,7 +27276,7 @@
           "raid_group_id": null,
           "raid_id": null,
           "created_at": "2024-05-31T13:33:02.000000Z",
-          "updated_at": "2024-06-02T15:40:29.000000Z"
+          "updated_at": "2024-06-02T22:17:24.000000Z"
         }
       }
     ]
