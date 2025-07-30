@@ -1645,7 +1645,7 @@
       "profession_2": "Jewelcrafting",
       "rank": null,
       "rank_goal": null,
-      "raid_group_id": null,
+      "raid_group_id": 21170,
       "is_alt": 0,
       "public_note": null,
       "inactive_at": null,
@@ -1655,8 +1655,8 @@
       "discord_id": "283802398433083394",
       "is_wishlist_unlocked": 0,
       "is_received_unlocked": 0,
-      "raid_group_name": null,
-      "raid_group_color": null,
+      "raid_group_name": "Best Friends",
+      "raid_group_color": "3447003",
       "officer_note": null,
       "raid_count": 0,
       "benched_count": 0,
@@ -5251,14 +5251,7 @@
       "display_spec": "DPS",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 678551, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -6635,14 +6628,7 @@
       "display_spec": "Restoration",
       "sub_archetype": null,
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 680385, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -7443,14 +7429,7 @@
       "display_spec": "Elemental",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 679636, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -12445,14 +12424,7 @@
       "display_spec": "Soon*TM",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 680213, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -13793,14 +13765,7 @@
       "display_spec": "Feral",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 677168, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -14601,14 +14566,7 @@
       "display_spec": "Destruction",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 680069, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -16462,14 +16420,7 @@
       "display_spec": "Destruction",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 677349, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -17738,14 +17689,7 @@
       "display_spec": "Destruction",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 680502, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": []
     },
@@ -17789,14 +17733,7 @@
       "display_spec": "Frost",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 679650, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -19470,14 +19407,7 @@
       "display_spec": "Blood",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 676231, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": []
     },
@@ -19497,7 +19427,7 @@
       "profession_2": "Tailoring",
       "rank": null,
       "rank_goal": null,
-      "raid_group_id": null,
+      "raid_group_id": 21170,
       "is_alt": 0,
       "public_note": null,
       "inactive_at": null,
@@ -19507,8 +19437,8 @@
       "discord_id": "205919749710807049",
       "is_wishlist_unlocked": 0,
       "is_received_unlocked": 0,
-      "raid_group_name": null,
-      "raid_group_color": null,
+      "raid_group_name": "Best Friends",
+      "raid_group_color": "3447003",
       "officer_note": null,
       "raid_count": 0,
       "benched_count": 0,
@@ -20610,14 +20540,7 @@
       "display_spec": "Balance",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 677294, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -22615,14 +22538,7 @@
       "display_spec": "Mister Fister",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 676240, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -25187,14 +25103,7 @@
       "display_spec": "Frost",
       "sub_archetype": "Caster",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 679308, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -30621,14 +30530,7 @@
       "display_spec": "Survival",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 679627, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -37369,14 +37271,7 @@
       "display_spec": "Frost",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 676161, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
@@ -38477,7 +38372,7 @@
       "profession_2": "Engineering",
       "rank": null,
       "rank_goal": null,
-      "raid_group_id": null,
+      "raid_group_id": 21170,
       "is_alt": 0,
       "public_note": null,
       "inactive_at": null,
@@ -38487,8 +38382,8 @@
       "discord_id": "181451971021111296",
       "is_wishlist_unlocked": 0,
       "is_received_unlocked": 0,
-      "raid_group_name": null,
-      "raid_group_color": null,
+      "raid_group_name": "Best Friends",
+      "raid_group_color": "3447003",
       "officer_note": null,
       "raid_count": 0,
       "benched_count": 0,
@@ -41075,14 +40970,7 @@
       "display_spec": "Frost",
       "sub_archetype": "Physical",
       "received": [],
-      "secondary_raid_groups": [
-        {
-          "id": 21170,
-          "name": "Best Friends",
-          "color": "3447003",
-          "pivot": { "character_id": 676253, "raid_group_id": 21170 }
-        }
-      ],
+      "secondary_raid_groups": [],
       "prios": [],
       "wishlist": [
         {
